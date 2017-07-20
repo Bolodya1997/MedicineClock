@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Напоминания для лекарств</string>
+    <string name="add_medicine">Добавить лекарство</string>
+    <string name="cancel">Отмена</string>
+    <string name="delay">До следующего приёма</string>
+    <string name="name">Название лекарства</string>
+    <string name="ok">ОК</string>
+    <string name="start">Запустить</string>
+    <string name="stop">Остановить</string>
+    <string name="start_time">Первый приём</string>
+    <string name="delete">Удалить</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="remind_me_later">Напомнить позже</string>
+    <string name="use_now">Принять сейчас</string>
+    <string name="count">Количество приёмов</string>
+    <string name="empty_name">Введите название лекарства</string>
+    <string name="zero_count">Количество приёмов дожно быть больше 0</string>
+    <string name="zero_delay">Время между приёмами должно быть ненулевым</string>
+</resources>

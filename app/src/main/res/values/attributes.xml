@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="time" format="integer" />
+    <attr name="recursiveEnabled" format="boolean" />
+    <attr name="count" format="integer" />
+</resources>
